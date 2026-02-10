@@ -1,0 +1,17 @@
+{
+  "name": "full_stack_blog_application",
+  "version": "1.0.0",
+  "description": "Full Stack Blog Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.0"
+  }
+}
